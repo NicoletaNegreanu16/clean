@@ -1,13 +1,11 @@
 html {
 display: inline;
 margin:30px;
+opacity: 0.3;
 }
 #nume {
 text-align: center;
 color:#33d9ef;
-}
-div {
-opacity: 0.3;
 }
 body {
   font-family: Handlee, cursive;
