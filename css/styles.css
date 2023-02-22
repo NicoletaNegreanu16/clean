@@ -33,7 +33,7 @@ color:rgb(134, 122, 225);
 opacity: 0.2;
 background-image: url("https://github.com/NicoletaNegreanu16/clean/blob/main/Image/catel.jpg?raw=true");
 }
-@media screen {
+@media screen and {
 body { 
   font-family: Handlee, cursive;
   height: 100%; 
