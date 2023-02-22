@@ -7,9 +7,6 @@ display: flex;
 height: 100%;
 width:100%;
 }
-div {
-background-size: cover;
-}
 #nume {
 text-align: center;
 color:#705aec;
