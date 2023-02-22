@@ -8,6 +8,9 @@ height: 100%;
 width:100%;
 overflow-x: hidden;
 }
+div {
+background-size:cover;
+}
 #nume {
 text-align: center;
 color:#705aec;
